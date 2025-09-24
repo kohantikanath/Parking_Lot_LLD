@@ -1,4 +1,4 @@
-# Smart Parking Lot Management System
+# Parking Lot Management System
 
 A comprehensive Java-based parking lot management system implementing SOLID principles and multiple design patterns. The system supports efficient vehicle parking, allocation strategies with different time complexities, and complete payment processing.
 
